@@ -100,7 +100,7 @@ value - (dict of strings) - either an offer id or transaction amount depending o
 
 
 ### Results
-The project notebook and the blog post link can be found below:
+The blog post link can be found below:
 * [Blog Post](https://medium.com/@goutam.ghadai2199/analyzing-starbucks-rewards-app-data-f31246a4f878)
 
 
