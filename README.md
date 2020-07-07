@@ -8,10 +8,9 @@
 2. Project Motivation
 3. Project Overview
 4. File Descripton
-5. Questions and Answer
-6. Results
-7. Acknowledgement
-8. Authors
+5. Results
+6. Acknowledgement
+7. Authors
 
 
 ### Installations
@@ -94,13 +93,9 @@ time (int) - time in hours since start of test. The data begins at time t=0
 value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 
-### Questions to Answer
-* Q1: Which offers are most effective?
-* Q2: How can we split customers into different group? And how each group reacts to the offers?
-
 
 ### Results
-The blog post link can be found below:
+The result is described in the blog post whose link is given below:
 * [Blog Post](https://medium.com/@goutam.ghadai2199/analyzing-starbucks-rewards-app-data-f31246a4f878)
 
 
